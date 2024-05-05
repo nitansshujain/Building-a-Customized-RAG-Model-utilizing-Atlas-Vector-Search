@@ -1,0 +1,1 @@
+OS Name: Windows 10 Enterprise Version: 6.3 Build: 19044 Type: Multiprocessor Free (8 Logical Processor(s)) Primary UI language: 0x9 Short Name: Win8.164 WOW64
